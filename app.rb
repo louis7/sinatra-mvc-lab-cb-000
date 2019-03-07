@@ -1,5 +1,4 @@
 require_relative 'config/environment'
-require_relative 'model/piglatinizer'
 
 class App < Sinatra::Base
 
